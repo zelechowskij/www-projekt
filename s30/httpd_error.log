@@ -1,0 +1,24 @@
+[Tue May 05 17:12:38.595955 2020] [php7:notice] [pid 361] [client 64.225.18.163:60276] PHP Notice:  Undefined index: page in /home/s30/public_html/index.php on line 149
+[Tue May 05 17:12:38.596010 2020] [php7:notice] [pid 361] [client 64.225.18.163:60276] PHP Notice:  Undefined index: page in /home/s30/public_html/index.php on line 150
+[Wed May 06 09:36:11.278337 2020] [wsgi:error] [pid 9882] [client 185.252.183.156:51951] Target WSGI script not found or unable to stat: /home/s30/api.py
+[Wed May 06 14:14:31.483525 2020] [php7:error] [pid 6577] [client 104.238.94.60:41194] script '/home/s30/public_html/wp-login.php' not found or unable to stat, referer: http://s30.labwww.pl/wp-login.php
+[Sat May 09 09:48:13.542937 2020] [php7:notice] [pid 14269] [client 89.64.51.222:14067] PHP Notice:  Undefined index: page in /home/s30/public_html/index.php on line 149
+[Sat May 09 09:48:13.542971 2020] [php7:notice] [pid 14269] [client 89.64.51.222:14067] PHP Notice:  Undefined index: page in /home/s30/public_html/index.php on line 150
+[Sat May 09 10:04:21.901591 2020] [php7:notice] [pid 11915] [client 89.64.51.222:14009] PHP Notice:  Undefined index: page in /home/s30/public_html/index.php on line 151
+[Sat May 09 10:04:21.901631 2020] [php7:notice] [pid 11915] [client 89.64.51.222:14009] PHP Notice:  Undefined index: page in /home/s30/public_html/index.php on line 152
+[Sat May 09 10:07:22.092980 2020] [php7:notice] [pid 11915] [client 89.64.51.222:14068] PHP Notice:  Undefined index: page in /home/s30/public_html/index.php on line 151, referer: https://s30.labwww.pl/add_article
+[Sat May 09 10:07:22.093023 2020] [php7:notice] [pid 11915] [client 89.64.51.222:14068] PHP Notice:  Undefined index: page in /home/s30/public_html/index.php on line 152, referer: https://s30.labwww.pl/add_article
+[Sat May 09 10:10:57.981193 2020] [php7:notice] [pid 9123] [client 89.64.51.222:14065] PHP Notice:  Undefined index: page in /home/s30/public_html/index.php on line 152, referer: https://s30.labwww.pl/add_article
+[Sat May 09 10:10:57.981233 2020] [php7:notice] [pid 9123] [client 89.64.51.222:14065] PHP Notice:  Undefined index: page in /home/s30/public_html/index.php on line 153, referer: https://s30.labwww.pl/add_article
+[Sat May 09 10:15:59.943670 2020] [php7:notice] [pid 25895] [client 89.64.51.222:14028] PHP Notice:  Undefined index: page in /home/s30/public_html/index.php on line 152, referer: https://s30.labwww.pl/articles_add
+[Sat May 09 10:15:59.943707 2020] [php7:notice] [pid 25895] [client 89.64.51.222:14028] PHP Notice:  Undefined index: page in /home/s30/public_html/index.php on line 153, referer: https://s30.labwww.pl/articles_add
+[Sat May 09 10:29:03.095955 2020] [php7:notice] [pid 5212] [client 89.64.51.222:14075] PHP Notice:  Undefined index: page in /home/s30/public_html/index.php on line 150, referer: https://s30.labwww.pl/articles_add
+[Sat May 09 10:29:03.095987 2020] [php7:notice] [pid 5212] [client 89.64.51.222:14075] PHP Notice:  Undefined index: page in /home/s30/public_html/index.php on line 151, referer: https://s30.labwww.pl/articles_add
+[Sat May 09 10:42:39.398654 2020] [php7:notice] [pid 11168] [client 89.64.51.222:14059] PHP Notice:  Undefined index: page in /home/s30/public_html/index.php on line 150, referer: https://s30.labwww.pl/articles_add
+[Sat May 09 10:42:39.398691 2020] [php7:notice] [pid 11168] [client 89.64.51.222:14059] PHP Notice:  Undefined index: page in /home/s30/public_html/index.php on line 151, referer: https://s30.labwww.pl/articles_add
+[Sat May 09 11:05:39.362474 2020] [php7:error] [pid 14269] [client 89.64.51.222:14064] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'last_seen' in 'field list' in /home/s30/public_html/index.php:49\nStack trace:\n#0 /home/s30/public_html/index.php(49): PDOStatement->execute(Array)\n#1 {main}\n  thrown in /home/s30/public_html/index.php on line 49, referer: https://s30.labwww.pl/register
+[Sat May 09 12:38:04.584260 2020] [php7:error] [pid 29011] [client 185.166.131.146:39508] script '/home/s30/public_html/wp-login.php' not found or unable to stat, referer: http://s30.labwww.pl/wp-login.php
+[Mon May 18 18:19:32.004871 2020] [php7:error] [pid 3348] [client 138.197.146.132:41234] script '/home/s30/public_html/wp-login.php' not found or unable to stat, referer: http://s30.labwww.pl/wp-login.php
+[Sun May 24 14:21:57.346214 2020] [php7:error] [pid 19949] [client 91.121.183.15:60438] script '/home/s30/public_html/wp-login.php' not found or unable to stat
+[Wed May 27 18:35:24.980284 2020] [php7:error] [pid 14520] [client 93.113.111.193:53980] script '/home/s30/public_html/wp-login.php' not found or unable to stat, referer: http://s30.labwww.pl/wp-login.php
+[Mon Jun 08 05:28:18.166261 2020] [php7:error] [pid 32084] [client 128.199.211.68:48270] script '/home/s30/public_html/wp-login.php' not found or unable to stat, referer: http://s30.labwww.pl/wp-login.php
